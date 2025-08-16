@@ -11,6 +11,6 @@
     <li>I love playing Factorio in my spare time 🎮</li>
   </ul>
 </div>
-<div float="left;">
+<div style="text-align: right;">
   elo
 </div>
