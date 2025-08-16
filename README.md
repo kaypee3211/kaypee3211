@@ -2,7 +2,7 @@
 ## Junior Software Programmer
 ### About Me
 
-<div style="background-color: red;">
+<div>
   <ul>
     <li>I'm a student currently studying Technical Computer Science.</li>
     <li>Passionate about learning C++ and improving my programming skills.</li>
@@ -10,5 +10,7 @@
     <li>Interested in embedded systems and exploring how hardware and software work together.</li>
     <li>I love playing Factorio in my spare time 🎮</li>
   </ul>
-
+</div>
+<div float="left;">
+  elo
 </div>
