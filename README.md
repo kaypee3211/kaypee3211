@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **embedded programming and hardware.**
 
-- 📫 How to reach me **kaypee3211@gmail.com**
+- 📫 How to reach me *kaypee3211@gmail.com*
 
-- ⚡ Fun fact **I love playing Factorio.**
+- ⚡ *I love playing Factorio.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
