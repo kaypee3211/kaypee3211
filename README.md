@@ -2,7 +2,7 @@
 ## Junior Software Programmer
 ### About Me
 
-<div>
+<div style="background-color:red";>
 
   <ul>
     <li>I'm a student currently studying Technical Computer Science.</li>
