@@ -10,6 +10,6 @@
   <li>I love playing Factorio in my spare time 🎮</li>
 </ul>
 </div>
-<div>
+<div style="float:left;">
      siema
 </div>
