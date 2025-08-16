@@ -2,8 +2,7 @@
 ## Junior Software Programmer
 ### About Me
 
-<div style="background-color:red";>
-
+<div style="background-color: red;">
   <ul>
     <li>I'm a student currently studying Technical Computer Science.</li>
     <li>Passionate about learning C++ and improving my programming skills.</li>
