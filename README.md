@@ -15,7 +15,7 @@
 <td>
 <img src="images/Q_jQKTk88F6ouuVzLOQmP8wqp-1NuuxVNBf8MNVIAsI.webp" 
      alt="My photo" 
-     width="150">
+     width="500">
 </td>
 </tr>
 </table>
