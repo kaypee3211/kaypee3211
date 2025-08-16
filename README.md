@@ -1,7 +1,7 @@
 # Hi there, I'm Kaypee3211
 ## Junior Software Programmer
 ### About Me:
-<table>
+<table style="border:0; border-collapse:collapse;">
 <tr>
 <td>
 <ul>
