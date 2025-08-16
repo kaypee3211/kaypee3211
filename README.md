@@ -2,7 +2,7 @@
 ## Junior Software Programmer
 ### About Me
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div>
 
   <ul>
     <li>I'm a student currently studying Technical Computer Science.</li>
@@ -11,10 +11,5 @@
     <li>Interested in embedded systems and exploring how hardware and software work together.</li>
     <li>I love playing Factorio in my spare time 🎮</li>
   </ul>
-
-  <img src="images/Q_jQKTk88F6ouuVzLOQmP8wqp-1NuuxVNBf8MNVIAsI.webp" 
-       alt="My photo" 
-       width="150" 
-       style="margin-left: auto;">
 
 </div>
