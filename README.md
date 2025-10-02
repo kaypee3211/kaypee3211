@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaype3211</h1>
+<h1 align="center">Hi 👋, I'm Kaypee3211</h1>
 <h3 align="center">A passionate junior software engineer, currently studying embedded programming and hardware in Technical Computer Science.</h3>
 
 <div align="center">
