@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaypee3211</h1>
-<h3 align="center">A passionate junior software engineer, currently a 1st semester student of Technical Computer Science at Wrocław University of Science and Technology (PWr).</h3>
+<h3 align="center">A junior software engineer, currently a 1st semester student of Technical Computer Science at Wrocław University of Science and Technology (PWr).</h3>
 
 <div align="center">
   <img src="images/tumblr_246012019a1ed62c5ed643d086f27a58_7c6e8d25_500.gif" alt="Hatsune Miku" />
