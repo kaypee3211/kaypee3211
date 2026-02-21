@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaypee3211&label=Profile%20views&color=0e75b6&style=flat" alt="kaypee3211" /> </p>
 
-- 🌱 I’m currently learning **embedded programming and hardware** as part of my studies.  
-- 📫 How to reach me **kaypee3211@gmail.com**   
+- I’m currently learning **embedded programming and hardware** as part of my studies.  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
